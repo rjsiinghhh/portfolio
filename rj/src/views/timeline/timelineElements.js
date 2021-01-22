@@ -37,7 +37,7 @@ let timelineElements = [
       "Online Course in Magical Beasts and Wonders of the World - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec scelerisque sagittis tellus, non ultrices lacus tempus vel.",
     buttonText: "Course Certificate",
     date: "September 2011",
-    icon: "school",
+    icon: "work",
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ let timelineElements = [
       "College - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec scelerisque sagittis tellus, non ultrices lacus tempus vel.",
     buttonText: "College Projects",
     date: "2007 - 2011",
-    icon: "school",
+    icon: "work",
   },
   {
     id: 6,

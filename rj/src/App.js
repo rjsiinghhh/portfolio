@@ -6,7 +6,7 @@ BrowserRouter as Router,
 } from 'react-router-dom';
 
 import MainNavigation from './components/Navigation/MainNavigation';
-import HomePage from './components/page/HomePage'
+import HomePage from './views/HomePage'
 
 const App = () => {
   return(
