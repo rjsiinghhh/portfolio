@@ -1,9 +1,11 @@
 import React from 'react';
 import Timeline from '../timeline/Timeline'
+import Card from '../UIElements/Card'
 
 const HomePage = () => {
     return(
         <div className="home">
+            
             <h1>HomePage</h1>
             <Timeline />
         </div>
