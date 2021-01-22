@@ -1,10 +1,10 @@
 import React from 'react';
-import Timeline from '../timeline/Timeline'
-import Card from '../UIElements/Card'
+import Timeline from '../components/timeline/Timeline'
 
 const HomePage = () => {
     return(
         <div className="home">
+
             
             <h1>HomePage</h1>
             <Timeline />
@@ -13,3 +13,10 @@ const HomePage = () => {
 }
 
 export default HomePage;
+
+
+
+// hero section / about me
+// project
+// timeline
+// contact me 

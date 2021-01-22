@@ -1,4 +1,5 @@
 .main-navigation__menu-btn {
+  
   width: 3rem;
   height: 3rem;
   background: transparent;
@@ -11,6 +12,7 @@
 }
 
 .main-navigation__menu-btn span {
+  
   display: block;
   width: 3rem;
   height: 2.5px;
@@ -29,6 +31,7 @@ font-family: 'Waiting for the Sunrise', cursive;
 }
 
 .main-navigation__header-nav {
+  font-family: 'Inconsolata', monospace;
   display: none;
 }
 
