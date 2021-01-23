@@ -51,11 +51,11 @@ let timelineElements = [
   },
   {
     id: 6,
-    title: "Marble Hills Grammar School",
-    location: "Dragontail, Ascana",
+    title: "St. John's Military School",
+    location: "Salina, Kansas",
     description:
-      "Highschool - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec scelerisque sagittis tellus, non ultrices lacus tempus vel.",
-    date: "2003 - 2007",
+      "High School - Left home for the first time at 14 from California ",
+    date: "2009 - 2012",
     icon: "school",
   },
 ];

@@ -4,6 +4,7 @@ import Hero from './hero/Hero'
 
 const HomePage = () => {
     return(
+        
         <div className="home">
             <Hero />
             <Timeline />
