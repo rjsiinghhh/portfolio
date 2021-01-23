@@ -24,14 +24,13 @@
 }
 
 .main-navigation__title a {
-  font-family: 'Herr Von Muellerhoff', cursive;
-font-family: 'Waiting for the Sunrise', cursive;
+  font-family: 'Barrio', cursive;
   text-decoration: none;
   color: white;
 }
 
 .main-navigation__header-nav {
-  font-family: 'Major Mono Display', monospace;
+  font-family: 'Barrio', cursive;
   display: none;
 }
 
