@@ -34,20 +34,28 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title> RJ Singh - Full Stack Software Engineer</title>
+    <lottie-player id="firstLottie" src="https://assets8.lottiefiles.com/packages/lf20_vnlpiN.json" style="width:400px; height: 400px;">"></lottie-player>
+
+<script>
+LottieInteractivity.create({
+    mode:"scroll",
+    player:'#firstLottie',
+    actions: [
+        {
+            visibility:[0,1],
+            type: "seek",
+            frames: [0, 151],
+        },
+    ]  
+});
+</script>
   </head>
   <body>
+  <lottie-player id="firstLottie" src="https://assets8.lottiefiles.com/packages/lf20_vnlpiN.json" style="width:400px; height: 400px;">"></lottie-player>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <div id="drawer-hook"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
-
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
+    <div id="backdrop-hook"> </div>
+ 
   </body>
 </html>
